@@ -1,4 +1,8 @@
 {
+  "name": "typescript + next.js + tailwind example",
+  "description": "This is a really simple project that shows the usage of TypeScript + Next.js + TailwindCSS combo.",
+  "author": "Sándor Király <sandorkiraly.dev@gmail.com>",
+
   "private": true,
   "scripts": {
     "dev": "next",
